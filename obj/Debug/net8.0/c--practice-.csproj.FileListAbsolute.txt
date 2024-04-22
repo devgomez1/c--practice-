@@ -1,0 +1,15 @@
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\bin\Debug\net8.0\c--practice-.exe
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\bin\Debug\net8.0\c--practice-.deps.json
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\bin\Debug\net8.0\c--practice-.runtimeconfig.json
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\bin\Debug\net8.0\c--practice-.dll
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\bin\Debug\net8.0\c--practice-.pdb
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.AssemblyInfoInputs.cache
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.AssemblyInfo.cs
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.csproj.CoreCompileInputs.cache
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.sourcelink.json
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.dll
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\refint\c--practice-.dll
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.pdb
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\c--practice-.genruntimeconfig.cache
+C:\Users\Devin Gomez\Desktop\GSI\CPRACTICE\c--practice-\obj\Debug\net8.0\ref\c--practice-.dll
